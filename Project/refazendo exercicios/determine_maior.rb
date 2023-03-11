@@ -12,6 +12,6 @@ if number > numero_maior
 end
 end
 
-puts numero_maior
+puts  numero_maior
 
 
