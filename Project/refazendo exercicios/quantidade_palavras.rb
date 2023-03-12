@@ -4,7 +4,7 @@ print "Escreva uma frase: "
 
 word = gets.chomp
 
-count = word.count('word')
+count = word.split.size
   
 puts count
 
